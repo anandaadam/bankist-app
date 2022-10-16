@@ -1,0 +1,15 @@
+{
+  "name": "bankist-website",
+  "version": "1.0.0",
+  "description": "Join with us to manage yor finance",
+  "default": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "author": "Adam Ananda Santoso",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.7.0"
+  }
+}
