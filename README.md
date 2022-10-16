@@ -1,4 +1,4 @@
-# bankist Application Project
+# Bankist Application
 
 The easy way to manage your finance.
 
