@@ -3,7 +3,7 @@
 // DIFFERENT DATA! Contains movement dates, currency and locale
 
 const account1 = {
-  owner: "Adam Ananda Santoso",
+  owner: "User 1",
   movements: [
     20000000, 45500.23, -306000.5, 250000, -642000.21, -13300.9, 79000.97,
     130000,
@@ -26,7 +26,7 @@ const account1 = {
 };
 
 const account2 = {
-  owner: "Kendall Jenner",
+  owner: "User 2",
   movements: [5000, 3400, -150, -790, -3210, -1000, 8500, -30],
   interestRate: 1.5,
   pin: 2222,
