@@ -1,4 +1,3 @@
-
 # Bankist App
 
 ## Description
@@ -24,17 +23,17 @@ This is a web application to simulate online banking mechanisms at a very simple
 
 1. Clone this repository:
    ```bash
-   git clone [url-repositori]
+   git clone https://github.com/adamanandas/bankist-app.git
    ```
 2. Go to project directory:
    ```bash
-   cd directory-name 
+   cd bankist-app 
    ```
 
 ## Run The Application
 
 1. Open index.html file in browser
-2. Login for u1 as username and 1111 as password
+2. Login for u1 as username and 1111 as password or u2 and 2222
 
 ## Demo
 
